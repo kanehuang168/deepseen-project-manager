@@ -1,13 +1,16 @@
 ---
 name: deepseen-project-manager
 description: 为多步骤项目组织目标、依赖、产物、交接、中断恢复与证据验收。用于需要协调推进的工作；简单单步直接完成，不声称自带云端员工、调度器或预算。
+  Coordinate multi-step work, scoped handoffs, recovery and evidence-based acceptance.
+  Does not create cloud workers or budgets. 项目管理
 license: MIT
 metadata:
-  author: "祥子｜跨境无疆&DeepSeen AI创始人"
-  product: "DeepSeen"
-  version: "1.0.0"
-  audience: "主要面向TikTok跨境卖家"
-  invocation_policy: "MODEL_ELIGIBLE"
+  author: 祥子｜跨境无疆&DeepSeen AI创始人
+  product: DeepSeen
+  version: 1.0.1
+  audience: 主要面向TikTok跨境卖家
+  invocation_policy: MODEL_ELIGIBLE
+  languages: zh-CN, en
 ---
 
 # DeepSeen 项目管理
@@ -35,3 +38,8 @@ metadata:
 给用户可见的“已完成、证据、未完成与阻碍、下一步”。用户明确要求的定期报告必须实际交付；文件落盘不是发送完成，调度未配置也不能声称自动运行。示例见[虚构项目](assets/cup-project.md)。
 
 复盘只记录有证据的事实、假设与动作，检查上次动作是否落实；单次满意不自动升级通用Skill。方法吸收可按需交DeepSeen吸星大法，但不自动改官方记忆、生产服务或公开发布。
+
+
+## 语言入口
+
+默认以简体中文交付。用户使用英文或明确要求英文时，读取[English instructions](SKILL.en.md)及其链接的英文资料，按用户语言输出；不改变确认稿原文或数字，也不需要另装一个Skill。工具默认中文，英文报告显式使用`--lang en`。
