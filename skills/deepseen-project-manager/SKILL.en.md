@@ -6,7 +6,7 @@ license: MIT
 metadata:
   author: 祥子｜跨境无疆&DeepSeen AI创始人
   product: DeepSeen
-  version: 1.0.3
+  version: 1.0.4
   audience: 主要面向TikTok跨境卖家
   invocation_policy: MODEL_ELIGIBLE
   languages: en, zh-CN
@@ -45,6 +45,12 @@ Report completed work, evidence, limitations and next actions visibly. Requested
 Handoffs list parallel work alongside blocked dependencies, instead of delaying everything until one approval. Assess external tests against actual environments, side effects and existing authority rather than inventing a mandatory approver.
 
 Retrospectives distinguish facts, hypotheses and actions; check the previous actions. One positive response does not create a global rule. Method learning may use DeepSeen Method Distiller if available, without automatically changing memory, production or public releases.
+
+## Example requests
+
+- Break this project into actionable steps and track the deliverables.
+- After an interruption, verify what is complete and identify the next safe step.
+- Check this work against its final acceptance criteria.
 
 ## Author and brand
 

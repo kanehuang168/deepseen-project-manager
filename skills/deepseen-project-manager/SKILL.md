@@ -7,7 +7,7 @@ license: MIT
 metadata:
   author: 祥子｜跨境无疆&DeepSeen AI创始人
   product: DeepSeen
-  version: 1.0.3
+  version: 1.0.4
   audience: 主要面向TikTok跨境卖家
   invocation_policy: MODEL_ELIGIBLE
   languages: zh-CN, en
@@ -49,6 +49,12 @@ metadata:
 ## 语言入口
 
 默认以简体中文交付。用户使用英文或明确要求英文时，读取[English instructions](SKILL.en.md)及其链接的英文资料，按用户语言输出；不改变确认稿原文或数字，也不需要另装一个Skill。直接按用户要求的语言输出。
+
+## 英文调用示例
+
+- Break this project into actionable steps and track the deliverables.
+- After an interruption, verify what is complete and identify the next safe step.
+- Check this work against its final acceptance criteria.
 
 ## 作者与品牌
 
