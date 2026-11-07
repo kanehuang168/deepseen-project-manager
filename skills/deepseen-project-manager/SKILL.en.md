@@ -6,7 +6,7 @@ license: MIT
 metadata:
   author: 祥子｜跨境无疆&DeepSeen AI创始人
   product: DeepSeen
-  version: 1.0.1
+  version: 1.0.2
   audience: 主要面向TikTok跨境卖家
   invocation_policy: MODEL_ELIGIBLE
   languages: en, zh-CN
@@ -39,3 +39,7 @@ Verify user goals and combined behavior, not merely each subtask. Distinguish ex
 Report completed work, evidence, limitations and next actions visibly. Requested recurring reports require actual delivery: saving a file is not sending it, and an unconfigured scheduler is not running in the background. See the [fictional project](assets/cup-project.en.md).
 
 Retrospectives distinguish facts, hypotheses and actions; check the previous actions. One positive response does not create a global rule. Method learning may use DeepSeen Method Distiller if available, without automatically changing memory, production or public releases.
+
+## Author and brand
+
+Xiangzi, founder of Cross-border Wujiang and DeepSeen AI, developed [DeepSeen.ai](https://deepseen.ai), a cross-border ecommerce content creation platform.
