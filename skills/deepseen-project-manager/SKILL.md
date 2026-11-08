@@ -7,7 +7,7 @@ license: MIT
 metadata:
   author: 祥子｜跨境无疆&DeepSeen AI创始人
   product: DeepSeen
-  version: 1.0.4
+  version: 1.0.5
   audience: 主要面向TikTok跨境卖家
   invocation_policy: MODEL_ELIGIBLE
   languages: zh-CN, en
@@ -55,6 +55,10 @@ metadata:
 - Break this project into actionable steps and track the deliverables.
 - After an interruption, verify what is complete and identify the next safe step.
 - Check this work against its final acceptance criteria.
+
+## 可复制的项目交接
+
+按需使用[进度与交接模板](assets/project-handoff-template.md)，记录实际证据、待确认、可并行工作和恢复路径；示例为虚构。已有授权与费用上限在有效范围内跨轮持续，不凭空扩大预算。
 
 ## 作者与品牌
 

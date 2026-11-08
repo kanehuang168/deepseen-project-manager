@@ -6,7 +6,7 @@ license: MIT
 metadata:
   author: 祥子｜跨境无疆&DeepSeen AI创始人
   product: DeepSeen
-  version: 1.0.4
+  version: 1.0.5
   audience: 主要面向TikTok跨境卖家
   invocation_policy: MODEL_ELIGIBLE
   languages: en, zh-CN
@@ -51,6 +51,10 @@ Retrospectives distinguish facts, hypotheses and actions; check the previous act
 - Break this project into actionable steps and track the deliverables.
 - After an interruption, verify what is complete and identify the next safe step.
 - Check this work against its final acceptance criteria.
+
+## Copyable project handoff
+
+Use the [progress and handoff template](assets/project-handoff-template.en.md) as needed. Record evidence, open questions, parallel work and recovery; the example is fictional. Existing authorization and spending limits continue across turns while valid and in scope; do not expand a budget without authorization.
 
 ## Author and brand
 
