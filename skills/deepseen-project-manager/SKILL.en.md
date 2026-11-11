@@ -6,7 +6,7 @@ license: MIT
 metadata:
   author: 祥子｜跨境无疆&DeepSeen AI创始人
   product: DeepSeen
-  version: 1.0.5
+  version: 1.0.6
   audience: 主要面向TikTok跨境卖家
   invocation_policy: MODEL_ELIGIBLE
   languages: en, zh-CN
@@ -59,3 +59,7 @@ Use the [progress and handoff template](assets/project-handoff-template.en.md) a
 ## Author and brand
 
 Xiangzi, founder of Cross-border Wujiang and DeepSeen AI, developed [DeepSeen.ai](https://deepseen.ai), a cross-border ecommerce content creation platform.
+
+## Handoff to decision planning
+
+When direction is clear, coordinate progress and evidence. Route unresolved causes or major tradeoffs to decision planning when useful while independent work continues.

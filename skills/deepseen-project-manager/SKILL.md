@@ -7,7 +7,7 @@ license: MIT
 metadata:
   author: 祥子｜跨境无疆&DeepSeen AI创始人
   product: DeepSeen
-  version: 1.0.5
+  version: 1.0.6
   audience: 主要面向TikTok跨境卖家
   invocation_policy: MODEL_ELIGIBLE
   languages: zh-CN, en
@@ -63,3 +63,7 @@ metadata:
 ## 作者与品牌
 
 祥子｜跨境无疆 & DeepSeen AI 创始人，开发 [DeepSeen.ai](https://deepseen.ai) 跨境电商内容创作平台。
+
+## 与深知灼见的分工
+
+方向明确时推进任务、依赖和证据验收；根因或重要方案取舍不明时按需交深知灼见分析，同时推进不受阻的工作。
